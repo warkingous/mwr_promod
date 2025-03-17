@@ -4,4 +4,5 @@ A Promod for **Call of Duty 4: Remastered** designed to enhance competitive game
 
 ## Features
 
-- **TBA:** TBA
+- Removed map effects (fog, papers, dust, fire, etc.) 
+- Removed map ambient sound effects 
