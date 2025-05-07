@@ -1,8 +1,28 @@
-# CoD4 Remastered Promod
+# MWR PROMOD
+> Call of Duty 4: Remastered** designed to deliver the classic Promod experience, inspired by the competitive scene of CoD4 Promod.
 
-A Promod for **Call of Duty 4: Remastered** designed to enhance competitive gameplay. This mod brings a variety of gameplay tweaks, settings adjustments, and optimizations that aim to improve the competitive experience.
+## Changelog
 
-## Features
+### v1.0
 
-- Removed map effects (fog, papers, dust, fire, etc.) 
-- Removed map ambient sound effects 
+#### General Changes
+- Removed map ambient sounds  
+- Removed map visual effects (e.g. dust, fire, fog)  
+- Bouncing enabled  
+- Removed turrets (MGs)  
+- Removed perks  
+- Removed killstreaks  
+
+#### Graphics / Visual Tweaks
+- Filmtweaks toggle support:  
+  `r_filmusetweaks 1/0`, `r_filmtweakenable 1/0`  
+- Normal map toggle support:  
+  `r_normalmap 1/0`  
+- Lighting toggle support:  
+  `r_fullbright 1/0`  
+
+#### Weapon Changes (Promod Style)
+- No weapon bobbing  
+- No auto-knife  
+- Increased starting ammo  
+- Steady scopes (no sway)
